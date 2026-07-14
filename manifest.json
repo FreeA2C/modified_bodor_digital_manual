@@ -2,7 +2,7 @@
   "name": "bodor デジタルマニュアル",
   "short_name": "bodor Manual",
   "description": "bodorファイバーレーザーカッターのメンテナンスマニュアル",
-  "start_url": "/bodor_digital_manual/",
+  "start_url": "/modified_bodor_digital_manual/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1e7ce8",
